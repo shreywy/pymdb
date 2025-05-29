@@ -8,10 +8,10 @@
 - Search TMDb, display results (title + ID)  
 - Save/Load shows to `storage.json`  
 - **Add:**  
-  - View show details (TMDb fetch)  
+  - View show details (TMDb fetch, also make sure to store media type (shows/potentially anime and manga in the future)) 
   - Add/edit ratings, watch status, notes  
   - Remove shows  
-  - Filter/sort by status/rating  
+  - Filter/sort by status/rating/last modified
   - Improved formatting *(optional, GUI replaces later)*  
 
 **Phase 2: Basic PyWebView Setup**  
